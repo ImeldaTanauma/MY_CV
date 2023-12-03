@@ -6,12 +6,12 @@ function Content() {
     <div className="about-section" id="about">
       <div className="container">
         <div className="about-header">
-          <h3>about</h3>
+          <h3>about me</h3>
           <div className="about-imag">
             <img src="public/images/pic-9.jpg" alt />
           </div>
           <div className="about-text">
-            <p> I am an experienced graphic designer with over 10 years of experience specializing in logo design. Besides hosting several graphic design seminars, I'm creates relevant and original logos that enhance a company's brand recognition. I also unique experience and creative mindset help companies remain current in a consistently evolving market. .</p> 
+            <p> I am an experienced graphic designer with over 4 years of experience specializing in logo design. Besides hosting several graphic design seminars, I'm creates relevant and original logos that enhance a company's brand recognition. I also unique experience and creative mindset help companies remain current in a consistently evolving market. .</p> 
           </div>
           <div className="clearfix" />
         </div>
