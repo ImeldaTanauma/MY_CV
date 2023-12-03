@@ -39,7 +39,7 @@ function Header() {
                 <div className="banner_center">
                   <h1>hello I am Imelda Tanauma</h1> 
                   <h2>i am <span>graphic &amp;  designer</span></h2>
-                  <h2>I am form Airmadidi</h2>
+                  <h2>I am from Airmadidi</h2>
                 </div>
               </div>
             </article>
