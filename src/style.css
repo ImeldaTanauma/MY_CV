@@ -62,7 +62,7 @@ body{
 }
 .top-menu ul li a{
 	font-size: 1.1em;
-	color: #fff;
+	color: #ed0909;
 	text-decoration: none;
 	text-transform: uppercase;
 	
@@ -80,7 +80,7 @@ nav a {
 	position: relative;
 	display: inline-block;
 	outline: none;
-	color: #fff;
+	color: #070404;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -147,13 +147,13 @@ nav a:focus {
 
 }
 .banner_center h1 {
-	color: #eee;
+	color: #f34f4f;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-size: 2.4em;
 }
 .banner_center h2 {
-	color: #eee;
+	color: #ed4e4e;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-size: 2.4em;
