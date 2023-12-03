@@ -28,7 +28,7 @@ function Header() {
             <article style={{position: 'absolute', width: '100%', opacity: 0}}> 
               <div className="banner-wrap">
                 <div className="banner_center">
-                  <h1>Hello!I am Imelda Tanauma</h1> 
+                  <h1>Hello! I am Imelda Tanauma</h1> 
                   <h2>I'm <span>graphic &amp; web designer</span></h2>
                   <h2>Airmadidi</h2>
                 </div>
@@ -37,7 +37,7 @@ function Header() {
             <article style={{position: 'relative', width: '100%', opacity: 1}}> 
               <div className="banner-wrap">
                 <div className="banner_center">
-                  <h1>hello I am Imelda Tanauma</h1> 
+                  <h1>Hello! I am Imelda Tanauma</h1> 
                   <h2>I am <span>graphic &amp;  designer</span></h2>
                   <h2>I'm from Airmadidi</h2>
                 </div>
