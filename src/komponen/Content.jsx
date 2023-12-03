@@ -11,8 +11,7 @@ function Content() {
             <img src="public/images/pic-9.jpg" alt />
           </div>
           <div className="about-text">
-            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> 
-            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. . </p>
+            <p> I am an experienced graphic designer with over 10 years of experience specializing in logo design. Besides hosting several graphic design seminars, I'm creates relevant and original logos that enhance a company's brand recognition. I also unique experience and creative mindset help companies remain current in a consistently evolving market. .</p> 
           </div>
           <div className="clearfix" />
         </div>
