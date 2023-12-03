@@ -12,7 +12,7 @@ function Header() {
           <ul>
             <nav className="cl-effect-5">
               <li><a className="active" href="index.html"><span data-hover="Home">home</span></a></li>
-              <li><a href="#about" className="scroll"><span data-hover="about">about me</span></a></li>
+              <li><a href="#about" className="scroll"><span data-hover="about">about </span></a></li>
               <li><a href="#work" className="scroll"><span data-hover="work"><span>work</span></span></a></li>
               <li><a href="#services" className="scroll"><span data-hover="services">services</span></a></li>
               <li><a href="#contact" className="scroll"><span data-hover="contact">contact</span></a></li>
